@@ -1,3 +1,5 @@
+## Desvendando Atletas - Imersão Dev com Google Gemini
+
 ### **O que faz essa aplicação?**
 
 Imagina que você é um super fã de esportes e quer saber tudo sobre seus atletas brasileiros favoritos. Essa aplicação é tipo um Google, mas só para atletas! Você digita o nome de um atleta, um esporte ou até mesmo uma palavra-chave relacionada e *prontinho*, a aplicação te mostra todos os resultados que ela encontrar na nossa base de dados. É como ter uma enciclopédia esportiva personalizada no seu computador!
